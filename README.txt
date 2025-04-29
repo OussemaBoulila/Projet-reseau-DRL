@@ -1,7 +1,7 @@
 Jumia Chess is a checkers game featuring singleplayer against an AI model, local multiplayer and online gameplay
 with a simple and user-friendly design
 
-To launch the game execute the game_launcher.py
+To launch the game execute the game_launcher.py (make sure the working directory is the project directory "Projet-reseau-DRL-main")
 
 A main menu will pop up and the player can choose their preferred gamemode.
 
