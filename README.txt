@@ -35,8 +35,11 @@ Note:
 
 This project was made by Oussema Boulila L1BCG6TP1,Mohamed Yassine Rached L1BCG5,AmenAllah Benali L1BCG6TP2
 
-DEVELOPEMENT TEAM:
--GAME DEVELOPMENT AND AI: Oussema Boulila
--CLIENT/SERVER(ONLINE)IMPLEMENTATION: Mohamed Yassine Rached
--MAIN MENU implementations and MEDIA: AmenAllah Benali
+DEVELOPMENT TEAM
+
+    Gameplay Programming & AI Systems: Oussema Boulila
+
+    Network Programming (Client/Server Architecture): Yassine Rached
+
+    UI/UX Design & Media Integration (Main Menu Systems): Amen Allah Ben Ali
 
